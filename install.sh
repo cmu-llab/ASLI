@@ -9,5 +9,5 @@ function install_dep {
 
 install_dep pypheature
 install_dep editdistance
-install_dep dev_misc 
+install_dep dev_misc
 install_dep .
